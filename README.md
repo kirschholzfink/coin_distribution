@@ -8,6 +8,7 @@ and then generates n subsets of this set of coins, all holding the exact same su
 
 (Let's say, you'd like to distribute this money among your children, equally.)
 
+
 It will let you know if this is possible, and if yes, show you what these subsets look like.
 		
 To give it a try, you may want to use these parameters:
