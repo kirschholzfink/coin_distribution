@@ -14,8 +14,11 @@ It will let you know if this is possible, and if yes, show you what these subset
 To give it a try, you may want to use these parameters:
 
 Value 1 : 5 coins.
+
 Value 3 : 3 coins.
+
 Value 5 : 2 coins.
+
 n : 2
 
 
