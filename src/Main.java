@@ -20,7 +20,7 @@ public class Main {
 		System.out.println("Value 1 : 5 coins.");
 		System.out.println("Value 3 : 3 coins.");
 		System.out.println("Value 5 : 2 coins.\n");
-		System.out.println("n : 2");
+		System.out.println("n : 2\n");
 		
 		Talerverteilung tal = new Talerverteilung();
 		tal.execute();
